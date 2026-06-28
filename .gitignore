@@ -1,7 +1,9 @@
 # Ambientes virtuais
 backend/.venv/
-venv/
 .venv/
+.venv_temporaria/
+venv/
+env/
 
 # Cache do Python
 __pycache__/
